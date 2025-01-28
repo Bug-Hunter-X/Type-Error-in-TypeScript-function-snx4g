@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript where a function expecting a string argument is called with an array of strings.  The bug.ts file contains the erroneous code, while bugSolution.ts provides a corrected version.  The error highlights TypeScript's strong typing and how it helps catch such issues during development.
